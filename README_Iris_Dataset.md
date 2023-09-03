@@ -1,5 +1,5 @@
-# KNN
-K Nearest Neighbor
+# K-MEANS
+
 K-Means Clustering for Iris Data
 
 Introduction:
